@@ -9,6 +9,8 @@ Excercises from introduction to artificial intelligence  lectures.
 
 ## Bugs & Issues
 
+Some excercises were done during classes.
+
 Lecture      | Done         | Excercises 
 ------------ | ------------ | ------------ 
 1 | OK | OK
