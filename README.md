@@ -7,7 +7,7 @@ Excercises from introduction to artificial intelligence  lectures.
 -jupyter notebook
 -google collab
 
-## Bugs & Issues
+## Lectures
 
 Some excercises were done during classes.
 
@@ -25,5 +25,5 @@ Lecture      | Done         | Excercises
 10 | NOT | ??
 11 | NOT | ??
 12 | NOT | ??
-13 | Tommorow | ??
+13 | GH | ??
 14 | Last one | ??
